@@ -14,10 +14,10 @@
  */
 
 const LANGUAGES = [
-  { code: 'en', label: 'English',    flag: '' },
-  { code: 'ru', label: 'Russian',    flag: '' },
   { code: 'be', label: 'Belarusian', flag: '' },
   { code: 'uk', label: 'Ukrainian',  flag: '' },
+  { code: 'en', label: 'English',    flag: '' },
+  { code: 'ru', label: 'Russian',    flag: '' },
 ];
 
 const template = document.createElement('template');
